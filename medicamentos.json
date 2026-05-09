@@ -22,5 +22,13 @@
     "Precio": "250",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Piroxicam",
+    "Presentacion": "Cápsulas",
+    "Dosis": "20mg",
+    "Precio": "250",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
