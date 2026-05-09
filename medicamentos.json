@@ -6,5 +6,13 @@
     "Precio": "250",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Ibuprofeno",
+    "Presentacion": "Blíster",
+    "Dosis": "600mg",
+    "Precio": "250",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
