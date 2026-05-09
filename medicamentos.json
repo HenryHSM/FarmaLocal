@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "Nombre": "Paracetamol",
+    "Presentacion": "Blíster",
+    "Dosis": "500mg",
+    "Precio": "250",
+    "Estado": "Disponible",
+    "Fecha": ""
+  }
+]
