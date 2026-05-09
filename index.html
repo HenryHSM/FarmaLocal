@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tu Farmacia Local</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-inner">
+            <div class="logo">
+                <span class="logo-icon">💊</span>
+                <div>
+                    <h1>Tu Farmacia Local</h1>
+                    <p class="subtitulo">El más barato de Florida · Camagüey</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="buscador-wrap">
+            <span class="search-icon">🔍</span>
+            <input type="text" placeholder="Busca tu medicamento..." id="buscador">
+        </div>
+        <p id="estado-carga">Cargando medicamentos...</p>
+        <div id="lista-medicamentos"></div>
+    </main>
+
+    <script src="app.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/FarmaLocal/sw.js');
+        }
+    </script>
+</body>
+</html>

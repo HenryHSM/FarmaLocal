@@ -1,0 +1,259 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #f0f4f0;
+    color: #1a2e1a;
+    min-height: 100vh;
+}
+
+/* HEADER */
+header {
+    background: linear-gradient(135deg, #1a6b3a, #0d4525);
+    padding: 24px 20px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+}
+
+.header-inner {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+
+.logo-icon {
+    font-size: 42px;
+    line-height: 1;
+}
+
+header h1 {
+    font-size: 26px;
+    font-weight: 800;
+    color: white;
+    letter-spacing: 0.3px;
+    line-height: 1.2;
+}
+
+.subtitulo {
+    font-size: 13px;
+    color: rgba(255,255,255,0.75);
+    font-weight: 600;
+    margin-top: 3px;
+    letter-spacing: 0.2px;
+}
+
+/* MAIN */
+main {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px 16px;
+}
+
+/* BUSCADOR */
+.buscador-wrap {
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.search-icon {
+    position: absolute;
+    left: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 18px;
+    pointer-events: none;
+}
+
+#buscador {
+    width: 100%;
+    padding: 15px 15px 15px 46px;
+    font-size: 16px;
+    font-family: 'Nunito', sans-serif;
+    border: 2px solid #c8dfc8;
+    border-radius: 14px;
+    outline: none;
+    background: white;
+    color: #1a2e1a;
+    transition: border-color 0.2s;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
+#buscador:focus {
+    border-color: #1a6b3a;
+}
+
+#estado-carga {
+    text-align: center;
+    color: #666;
+    font-size: 15px;
+    padding: 20px 0;
+}
+
+/* TARJETAS */
+.tarjeta {
+    background: white;
+    border-radius: 16px;
+    padding: 18px;
+    margin-bottom: 14px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+    border-left: 4px solid #1a6b3a;
+}
+
+.tarjeta h3 {
+    font-size: 19px;
+    font-weight: 800;
+    color: #1a2e1a;
+    margin-bottom: 6px;
+}
+
+.tarjeta .info {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 4px;
+    font-weight: 600;
+}
+
+.tarjeta .precio {
+    font-size: 20px;
+    font-weight: 800;
+    color: #1a6b3a;
+    margin: 8px 0;
+}
+
+.disponible {
+    color: #1a6b3a;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.proximamente {
+    color: #d4810a;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+/* BOTÓN WHATSAPP */
+.btn-whatsapp {
+    display: block;
+    background: #25D366;
+    color: white;
+    text-align: center;
+    padding: 13px;
+    border-radius: 12px;
+    margin-top: 12px;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 800;
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: 0.3px;
+    transition: background 0.2s;
+}
+
+.btn-whatsapp:active {
+    background: #1da851;
+}
+
+/* ADMIN STYLES */
+label {
+    display: block;
+    margin-top: 14px;
+    font-weight: 700;
+    color: #1a2e1a;
+    font-size: 14px;
+}
+
+input, select {
+    width: 100%;
+    padding: 13px 15px;
+    font-size: 16px;
+    font-family: 'Nunito', sans-serif;
+    border: 2px solid #c8dfc8;
+    border-radius: 12px;
+    margin-top: 6px;
+    outline: none;
+    background: white;
+    color: #1a2e1a;
+    transition: border-color 0.2s;
+}
+
+input:focus, select:focus {
+    border-color: #1a6b3a;
+}
+
+#guardar {
+    display: block;
+    width: 100%;
+    background: #1a6b3a;
+    color: white;
+    border: none;
+    padding: 15px;
+    border-radius: 12px;
+    font-size: 17px;
+    font-weight: 800;
+    font-family: 'Nunito', sans-serif;
+    margin-top: 18px;
+    cursor: pointer;
+}
+
+#buscador-admin {
+    margin-top: 20px;
+    margin-bottom: 6px;
+}
+
+.btn-eliminar {
+    background: #e74c3c;
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Nunito', sans-serif;
+    margin-top: 10px;
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+.btn-editar {
+    background: #2980b9;
+    color: white;
+    border: none;
+    padding: 10px 18px;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Nunito', sans-serif;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+/* TOAST */
+#toast {
+    position: fixed;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #1a2e1a;
+    color: white;
+    padding: 14px 24px;
+    border-radius: 12px;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Nunito', sans-serif;
+    opacity: 0;
+    transition: opacity 0.4s;
+    z-index: 999;
+    white-space: nowrap;
+}
+
+#toast.mostrar {
+    opacity: 1;
+}
