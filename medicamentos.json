@@ -230,5 +230,13 @@
     "Precio": "250",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Loperamida",
+    "Presentacion": "Blíster",
+    "Dosis": "2mg",
+    "Precio": "250",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
