@@ -246,5 +246,13 @@
     "Precio": "350",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Chanca Piedra",
+    "Presentacion": "Frasco (60 pastillas)",
+    "Dosis": "480mg",
+    "Precio": "2000",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
