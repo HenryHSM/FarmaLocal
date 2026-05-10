@@ -630,5 +630,13 @@
     "Precio": "800",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Aciclovir tabletas",
+    "Presentacion": "Blíster",
+    "Dosis": "400mg",
+    "Precio": "300",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
