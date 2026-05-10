@@ -70,5 +70,13 @@
     "Precio": "350",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Dipirona (inyectable)",
+    "Presentacion": "Ampula",
+    "Dosis": "1g",
+    "Precio": "200",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
