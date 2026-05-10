@@ -78,5 +78,13 @@
     "Precio": "200",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Prednisolona (5mg)",
+    "Presentacion": "Blíster",
+    "Dosis": "5mg",
+    "Precio": "250",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
