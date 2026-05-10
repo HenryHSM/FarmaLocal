@@ -214,5 +214,13 @@
     "Precio": "250",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Domozol (Omeprazol+ Domperidona)",
+    "Presentacion": "Cápsulas",
+    "Dosis": "20/10mg",
+    "Precio": "300",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
