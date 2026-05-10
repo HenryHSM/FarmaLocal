@@ -142,5 +142,13 @@
     "Precio": "350",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Cefalexina",
+    "Presentacion": "Cápsulas",
+    "Dosis": "500mg",
+    "Precio": "450",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
