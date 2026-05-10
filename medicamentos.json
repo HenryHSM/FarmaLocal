@@ -378,10 +378,10 @@
   {
     "Nombre": "Clorfeniramina",
     "Presentacion": "Blíster",
-    "Dosis": "4mg",
+    "Dosis": "---",
     "Precio": "250",
-    "Estado": "Disponible",
-    "Fecha": ""
+    "Estado": "Próximamente",
+    "Fecha": "Finales de mayo"
   },
   {
     "Nombre": "Ciproheptadina",
