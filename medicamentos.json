@@ -198,5 +198,13 @@
     "Precio": "100",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Mebendazol",
+    "Presentacion": "Blíster",
+    "Dosis": "100mg",
+    "Precio": "250",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
