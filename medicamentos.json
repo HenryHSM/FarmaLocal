@@ -174,5 +174,13 @@
     "Precio": "600",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Aciclovir",
+    "Presentacion": "Blíster",
+    "Dosis": "400mg",
+    "Precio": "300",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
