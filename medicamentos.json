@@ -126,5 +126,13 @@
     "Precio": "400",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Azitromicina",
+    "Presentacion": "Blíster",
+    "Dosis": "400mg",
+    "Precio": "450",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
