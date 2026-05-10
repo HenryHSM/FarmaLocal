@@ -62,5 +62,13 @@
     "Precio": "400",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Alpalide",
+    "Presentacion": "Blíster",
+    "Dosis": "100mg",
+    "Precio": "350",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
