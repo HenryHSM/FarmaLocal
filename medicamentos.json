@@ -338,10 +338,10 @@
   {
     "Nombre": "Glibenclamida",
     "Presentacion": "Blíster",
-    "Dosis": "5mg",
+    "Dosis": "---",
     "Precio": "250",
-    "Estado": "Disponible",
-    "Fecha": ""
+    "Estado": "Próximamente",
+    "Fecha": "Finales de mayo"
   },
   {
     "Nombre": "Levotiroxina",
