@@ -94,5 +94,13 @@
     "Precio": "350",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Ciprofloxacino",
+    "Presentacion": "Blíster",
+    "Dosis": "500mg",
+    "Precio": "400",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
