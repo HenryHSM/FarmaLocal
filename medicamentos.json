@@ -638,5 +638,13 @@
     "Precio": "300",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Chanca Piedra (Pomo)",
+    "Presentacion": "Pomo (60 pastillas)",
+    "Dosis": "480mg",
+    "Precio": "2000",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
