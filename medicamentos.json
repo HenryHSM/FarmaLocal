@@ -54,5 +54,13 @@
     "Precio": "200",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Bicomplex(Dolocom)",
+    "Presentacion": "Blíster",
+    "Dosis": "Diclofenaco+ComplejoB",
+    "Precio": "400",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
