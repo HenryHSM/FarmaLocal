@@ -561,8 +561,8 @@
   },
   {
     "Nombre": "Triple antibiótico (pomada)",
-    "Presentacion": "Pomada",
-    "Dosis": "Triple",
+    "Presentacion": "Crema",
+    "Dosis": "Betametasona-Clotrimazol-Gentamicina",
     "Precio": "1000",
     "Estado": "Disponible",
     "Fecha": ""
