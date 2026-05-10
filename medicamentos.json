@@ -254,5 +254,13 @@
     "Precio": "2000",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Atenolol",
+    "Presentacion": "Blíster",
+    "Dosis": "100mg",
+    "Precio": "250",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
