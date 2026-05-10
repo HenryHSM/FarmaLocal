@@ -158,5 +158,13 @@
     "Precio": "350",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Rosefín",
+    "Presentacion": "Bulbo",
+    "Dosis": "—",
+    "Precio": "600",
+    "Estado": "Próximamente",
+    "Fecha": "Finales de mayo"
   }
 ]
