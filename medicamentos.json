@@ -166,5 +166,13 @@
     "Precio": "600",
     "Estado": "Próximamente",
     "Fecha": "Finales de mayo"
+  },
+  {
+    "Nombre": "Benzatínica",
+    "Presentacion": "Bulbo",
+    "Dosis": "1200000 UI",
+    "Precio": "600",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
