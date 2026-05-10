@@ -22,5 +22,13 @@
     "Precio": "250",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Hidroclorotiazida",
+    "Presentacion": "Blíster",
+    "Dosis": "50mg",
+    "Precio": "250",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
