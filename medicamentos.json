@@ -102,5 +102,13 @@
     "Precio": "400",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Sulfaprim",
+    "Presentacion": "Blíster",
+    "Dosis": "80/400mg",
+    "Precio": "350",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
