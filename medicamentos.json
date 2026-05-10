@@ -118,5 +118,13 @@
     "Precio": "400",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Amoxicilina",
+    "Presentacion": "Blíster",
+    "Dosis": "500mg",
+    "Precio": "400",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
