@@ -630,5 +630,13 @@
     "Precio": "800",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Atorvastatina",
+    "Presentacion": "Blister",
+    "Dosis": "20mg",
+    "Precio": "350",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
