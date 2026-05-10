@@ -14,5 +14,13 @@
     "Precio": "250",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Furosemida",
+    "Presentacion": "Blíster",
+    "Dosis": "40mg",
+    "Precio": "250",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
