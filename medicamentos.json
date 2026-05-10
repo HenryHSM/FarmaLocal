@@ -134,5 +134,13 @@
     "Precio": "450",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Doxiciclina",
+    "Presentacion": "Cápsulas",
+    "Dosis": "100mg",
+    "Precio": "350",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
