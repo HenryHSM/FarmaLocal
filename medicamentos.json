@@ -222,5 +222,13 @@
     "Precio": "300",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Metoclopramida",
+    "Presentacion": "Blíster",
+    "Dosis": "10mg",
+    "Precio": "250",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
