@@ -150,5 +150,13 @@
     "Precio": "450",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Metronidazol",
+    "Presentacion": "Blíster",
+    "Dosis": "500mg",
+    "Precio": "350",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
