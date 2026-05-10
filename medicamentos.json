@@ -46,5 +46,13 @@
     "Precio": "250",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Aceclofenaco",
+    "Presentacion": "Blíster",
+    "Dosis": "100mg",
+    "Precio": "200",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
