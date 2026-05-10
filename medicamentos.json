@@ -190,5 +190,13 @@
     "Precio": "300",
     "Estado": "Disponible",
     "Fecha": ""
+  },
+  {
+    "Nombre": "Fluconazol (la pastilla)",
+    "Presentacion": "Blíster",
+    "Dosis": "150mg",
+    "Precio": "100",
+    "Estado": "Disponible",
+    "Fecha": ""
   }
 ]
